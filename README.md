@@ -1,6 +1,4 @@
----
-
-### 2. `RFQ_AI_Core_Integration/README.md`
+## 2. `RFQ_AI_Core_Integration/README.md`
 
 ```markdown
 # RFQ AI Core Integration - SAP Integration Suite iFlow
